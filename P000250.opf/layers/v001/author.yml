@@ -1,0 +1,73 @@
+id: 5a3b1b62420f41d3986eacf4dca9ca53
+annotation_type: author
+revision: '00001'
+annotations:
+- span:
+    start: 82
+    end: 115
+- span:
+    start: 117
+    end: 135
+- span:
+    start: 137
+    end: 156
+- span:
+    start: 158
+    end: 183
+- span:
+    start: 185
+    end: 219
+- span:
+    start: 221
+    end: 243
+- span:
+    start: 291
+    end: 299
+- span:
+    start: 301
+    end: 324
+- span:
+    start: 326
+    end: 345
+- span:
+    start: 347
+    end: 366
+- span:
+    start: 848
+    end: 856
+- span:
+    start: 858
+    end: 881
+- span:
+    start: 883
+    end: 902
+- span:
+    start: 904
+    end: 923
+- span:
+    start: 6332
+    end: 6340
+- span:
+    start: 6342
+    end: 6365
+- span:
+    start: 6367
+    end: 6386
+- span:
+    start: 6388
+    end: 6407
+- span:
+    start: 15905
+    end: 15913
+- span:
+    start: 15915
+    end: 15940
+- span:
+    start: 21948
+    end: 21956
+- span:
+    start: 21958
+    end: 21989
+- span:
+    start: 21991
+    end: 22036

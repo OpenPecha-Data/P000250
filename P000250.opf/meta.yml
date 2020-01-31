@@ -1,0 +1,65 @@
+ebook_metadata:
+  title: ༄༅། །རིག་འཛིན་འདས་རྗེས་དང་མི་ཕམ་གྱི་རྟོགས་ཐར་སྟོན་པའི་མེ་ལོང་ཞེས་བྱ་བ་བཞུགས་སོ།
+    །
+  authors:
+  - མཛད་པ་པོ། རིག་འཛིན་དགའ་རབ་རྡོ་རྗེ།
+  - རིག་འཛིན་ཤྲཱི་སི་ཧ།
+  - རིག་འཛིན་ཡེ་ཤེས་མདོ།
+  - ཀུན་མཁྱེན་མི་ཕམ་རིན་པོ་ཆེ།
+  - ཡིད་བཞིན་ནོར་བུ་འཇིགས་མེད་ཕུན་ཚོགས།
+  - ཁང་སར་བསྟན་པའི་དབང་ཕྱུག
+  - མཛད་པ་པོ།
+  - རིག་འཛིན་དགའ་རབ་རྡོ་རྗེ།
+  - རིག་འཛིན་ཤྲཱི་སིཾ་ཧ།
+  - རིག་འཛིན་ཡེ་ཤེས་མདོ།
+  - ཟེར་རྟག་ཆ
+  - ་གཉིས་ཀྱི་བར་དུ་ཐོབ་ཅིག
+  - ' རིག་པ་ཆོས་ཉིད་ཀྱི་ག'
+  - ེར་ཆོས་ཅན་ཆོས་ཉིད་ཀྱ
+  - ་བ་རང་གྲོ
+  - ་བ་གཟུ་བོའི་བློ་ཅན་དུ་ལྷ
+  - ཁང་དུ་ཕྱིན་པ་ལྟ་བུའོ
+  - བསམ་པ་ཐམས་ཅད་གཞི་ལ་
+  - འོད་ཕུང་ག
+  - ་དཀྱིལ་ནས་སྒྲ་ཆེན་པོ་གྲགས་
+  - ཅིང་མྱུར་
+  - ་ནི་ཤིན་ཏུ་འབད་རྩོལ་ཆེན་པོས་བསྒྲ
+  - བ་པའི་ལམ་གཞན་ལ་ཞུགས་པ་རྣམས་དང་རྟོགས་ཚད་བསྟུན་པ
+  sku: TSD-004
+  layers:
+  - book_title
+  - author
+  - chapter_title
+  - quotation
+  - sabche
+  - yigchung
+web_metadata:
+  title:
+    en: “The Final Testaments of the Vidyadharas, and the Illuminating Lamp:An Essential
+      Instruction Pointing Directly at the Nature of Mind in Accordance with the Oral
+      Instructions of the Old Realized Ones, Mipham”
+    bo: རིག་འཛིན་འདས་རྗེས་དང་མི་ཕམ་གྱི་སེམས་ངོ་མཛུབ་ཚུགས་ཀྱི་གདམས་པའི་འགྲེལ་པ་སོགས།
+      མི་ཕམ་འཇམ་དབྱངས་རྣམ་རྒྱལ་རྒྱ་མཚོས་མཛད་པ།
+  collection:
+    en: Tsadra Publishing–  Book 4
+    bo: ཙཱ་འདྲ་དཔེ་སྐྲུན།–  དེབ། ༤
+  author:
+    en: Authors:Jamgon Mipham Gyatso,Khangsar Tanpai Wangchuk,Rigzin Garab Dorje,Rigzin
+      Shri Siha,Rigzin Yeshedo,Yishin Norbu Jigme Phuntsog
+    bo: ཁང་སར་བསྟན་པའི་དབང་ཕྱུག,འཇམ་མགོན་མི་ཕམ་རྒྱ་མཚོ།,ཡིད་བཞིན་ནོར་བུ་འཇིགས་མེད་ཕུན་ཚོགས།,རིག་འཛིན་དགའ་རབ་རྡོ་རྗེ།,རིག་འཛིན་ཡེ་ཤེས་མདོ།,རིག་འཛིན་ཤྲཱི་སི་ཧ།
+  pusblisher:
+    en: Tsadra Foundation Publishing
+    bo: ཙཱ་འདྲ་ཐེབས་རྩ་ཚོགས་པ།
+  sku: TSD-004
+  category:
+    en: Dzogchen
+    bo: རྫོགས་ཆེན།
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: TSD-004.epub
+  description:
+    en: ''
+    bo: ''
