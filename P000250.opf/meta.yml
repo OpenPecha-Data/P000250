@@ -1,4 +1,6 @@
-ebook_metadata:
+id: P000250
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །རིག་འཛིན་འདས་རྗེས་དང་མི་ཕམ་གྱི་རྟོགས་ཐར་སྟོན་པའི་མེ་ལོང་ཞེས་བྱ་བ་བཞུགས་སོ།
     །
   authors:
@@ -25,7 +27,6 @@ ebook_metadata:
   - ཅིང་མྱུར་
   - ་ནི་ཤིན་ཏུ་འབད་རྩོལ་ཆེན་པོས་བསྒྲ
   - བ་པའི་ལམ་གཞན་ལ་ཞུགས་པ་རྣམས་དང་རྟོགས་ཚད་བསྟུན་པ
-  sku: TSD-004
   layers:
   - book_title
   - author
@@ -33,6 +34,7 @@ ebook_metadata:
   - quotation
   - sabche
   - yigchung
+  id: TSD-004
 web_metadata:
   title:
     en: “The Final Testaments of the Vidyadharas, and the Illuminating Lamp:An Essential
